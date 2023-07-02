@@ -5,3 +5,14 @@ settings.ini
 CMakeSettings.json
 out/
 .vs/
+*.obj
+*.log
+*.recipe
+*.lastbuildstate
+*.tlog
+bin-int/Debug/box2d.vcxproj.FileListAbsolute.txt
+*.idb
+bin/Debug/box2d.lib
+bin/Debug/box2d.pdb
+*.vcxproj
+*.filters
