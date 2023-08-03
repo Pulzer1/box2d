@@ -16,3 +16,6 @@ bin/Debug/box2d.lib
 bin/Debug/box2d.pdb
 *.vcxproj
 *.filters
+*.lib
+*.pdb
+*.user
